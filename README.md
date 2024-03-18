@@ -17,6 +17,9 @@ If you want you can also use an application like Postman to see how the data is 
 The default path for making requests is localhost:8080/products
 
 # How to run the app?
+
+You can find the App repository [here](https://github.com/adlopp/cart-app)
+
 You will need npm, the default package management system for Node.js, a runtime environment for JavaScript.
 
 To install npm, execute the following commands.
@@ -27,4 +30,4 @@ To install npm, execute the following commands.
 Once all the dependencies are installed, the person can run the project using the scripts defined in the package.json file.
 
 3. **$npm run dev**
-This will open the web application in your browser but you will need to have the API of the application running in order to get the data from the database. You can find the API repository [here](https://github.com/adlopp/cart-api)
+This will open the web application in your browser but you will need to have the API of the application running in order to get the data from the database.
