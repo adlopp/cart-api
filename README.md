@@ -10,7 +10,7 @@ For a learning purpose.
 
 **Spring Boot:** Since this is a Spring Boot project, you need to install the necessary Spring Boot dependencies to run the application. These dependencies will be handled automatically via Maven when you compile and run the project, so there's no need to install them manually.
 
-**Compile and run the project:** Now you now your database will be running.
+**Compile and run the project:** Now your database will be running.
 
 If you want you can also use an application like Postman to see how the data is created when adding or deleting products.
 
