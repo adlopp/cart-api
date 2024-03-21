@@ -1,4 +1,4 @@
-# Users-API
+# Cart-API
 
 The purpose of this project is to create a simple API for manage a shopping cart, supporting a web application that you can find in [this repository](https://github.com/adlopp/cart-app).
 
